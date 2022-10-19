@@ -1,0 +1,4 @@
+HELLO WORLD
+GOODBYE PROGRAM
+small caps
+SmAll aNd Big CApS
